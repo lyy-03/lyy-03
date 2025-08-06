@@ -1,4 +1,4 @@
-# Hi there, I'm Yiyang Li 👋
+# Hi there, I'm lyy-03 👋
 
 I'm an undergraduate student majoring in **Computer Science and Technology** at **Shanghai Jiao Tong University**, currently working as a **Software Engineer Intern** at Honor Co., Ltd.
 
@@ -31,6 +31,7 @@ Under review for publication in **IEEE Transactions on Computers**.
 ## 📲 Connect with Me
 
 - **REDnote**: 5683465375
+- **Email**: lyy_03_03@126.com
 
 ---
 
