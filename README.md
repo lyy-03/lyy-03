@@ -1,4 +1,4 @@
-# Hi there, I'm lyy-03 👋
+# Hi there, I'm Yiyang Li 👋
 
 I'm an undergraduate student majoring in **Computer Science and Technology** at **Shanghai Jiao Tong University**, currently working as a **Software Engineer Intern** at Honor Co., Ltd.
 
